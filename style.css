@@ -38,7 +38,6 @@ body {
     padding: 60px;
     margin: 30px;
     gap: 20px;
-    flex-wrap: wrap;
 }
 
 .container_img {
@@ -122,4 +121,5 @@ button {
     color: black;
     background-color: red;
     cursor: pointer;
+
 }
